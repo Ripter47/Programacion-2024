@@ -1,0 +1,27 @@
+.body{
+    display: flex;
+    flex-direction: column;
+        align-items: center;
+    background-color:rgb(37, 37, 37);
+    background-image:url(BO.jpg);
+    font-family: inherit, black;
+    font-weight: bold;
+    color: orange;
+    font-size: 30px;
+    
+}
+.h1{
+    color: orange;
+    font-size: 50px;
+    font-family: impact;
+    font-weight:normal
+}
+.bu1{
+    background-color: black;
+    color: orange;
+    padding: 25px 40px;
+    border-radius: 50px;
+    margin: 0 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
